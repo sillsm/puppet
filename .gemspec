@@ -9,8 +9,7 @@
 #
 # Please see the [packaging
 # repository](https://github.com/puppetlabs/packaging) for information on how
-# to build the Puppet gem package.
-
+# to build the Puppet gem pac
 begin
   require 'puppet/version'
 rescue LoadError
